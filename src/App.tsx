@@ -48,7 +48,7 @@ function App() {
                                 },
                                 {
                                     name: 'subjects',
-                                    list: '/sujects',
+                                    list: '/subjects',
                                     create: '/subjects/create',
                                     meta: {label: 'Subjects', icon: <BookOpen/>}
                                 }
